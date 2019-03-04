@@ -1,1 +1,1 @@
-Metodología de test: TDD
+Metodología de test: 
