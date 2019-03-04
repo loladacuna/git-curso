@@ -1,1 +1,1 @@
-Metodología de test: Test Driven Development
+Metodología de test: TDD method
