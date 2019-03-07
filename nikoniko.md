@@ -1,4 +1,5 @@
 # Niko Niko Calendar of team X
+## Introduction
 
 ## Instructions of use
 Please copy the content of this calendar on an file named 'nikoniko.md' in a new branch of your github repository named metrics.
