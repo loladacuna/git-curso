@@ -28,7 +28,7 @@ In the retrospective meeting, the team has a discussion about those results.
 
 | Day           | [Member A]    | [Member B]     | [Member C]     | [Member D]     | [Member E]     | [Member F]     |
 | ------------- | ------------- | -------------  | -------------  | -------------  | -------------  | -------------  |
-| Day 1         |               |                |                |                |                |                |
+| Day 1         |         :smiley:      |                |                |                |                |                |
 | Day 2         |               |                |                |                |                |                |
 | Day 3         |               |                |                |                |                |                |
 | Day 4         |               |                |                |                |                |                |
