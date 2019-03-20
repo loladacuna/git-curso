@@ -26,7 +26,7 @@ In the retrospective meeting, the team has a discussion about those results.
 
 ## Sprint Template
 
-| Day           | [Memeber A]   | [Member B]     | [Memeber C]    | [Member D]     | [Memeber E]    | [Member F]     |
+| Day           | [Member A]    | [Member B]     | [Memeber C]    | [Member D]     | [Memeber E]    | [Member F]     |
 | ------------- | ------------- | -------------  | -------------  | -------------  | -------------  | -------------  |
 | Day 1         |               |                |                |                |                |                |
 | Day 2         |               |                |                |                |                |                |
